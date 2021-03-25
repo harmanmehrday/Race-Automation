@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yOFpS7gUYfqqcdzjMDbMl3WsGrNnvw6oNrEK2QNuGrtcJemiteVjH9iHHukR0AnKRqrSttMjwhcAbNJPiVEn4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hharmanp3\\source\\repos\\RunnerExcercise\\RunnerExcercise\\RunnerExcercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hharmanp3\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

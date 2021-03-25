@@ -1,0 +1,13 @@
+C:\Users\hharmanp3\source\repos\RunnerExcercise\RunnerExcercise\bin\Debug\netcoreapp3.1\RunnerExcercise.exe
+C:\Users\hharmanp3\source\repos\RunnerExcercise\RunnerExcercise\bin\Debug\netcoreapp3.1\RunnerExcercise.deps.json
+C:\Users\hharmanp3\source\repos\RunnerExcercise\RunnerExcercise\bin\Debug\netcoreapp3.1\RunnerExcercise.runtimeconfig.json
+C:\Users\hharmanp3\source\repos\RunnerExcercise\RunnerExcercise\bin\Debug\netcoreapp3.1\RunnerExcercise.runtimeconfig.dev.json
+C:\Users\hharmanp3\source\repos\RunnerExcercise\RunnerExcercise\bin\Debug\netcoreapp3.1\RunnerExcercise.dll
+C:\Users\hharmanp3\source\repos\RunnerExcercise\RunnerExcercise\bin\Debug\netcoreapp3.1\RunnerExcercise.pdb
+C:\Users\hharmanp3\source\repos\RunnerExcercise\RunnerExcercise\obj\Debug\netcoreapp3.1\RunnerExcercise.csprojAssemblyReference.cache
+C:\Users\hharmanp3\source\repos\RunnerExcercise\RunnerExcercise\obj\Debug\netcoreapp3.1\RunnerExcercise.AssemblyInfoInputs.cache
+C:\Users\hharmanp3\source\repos\RunnerExcercise\RunnerExcercise\obj\Debug\netcoreapp3.1\RunnerExcercise.AssemblyInfo.cs
+C:\Users\hharmanp3\source\repos\RunnerExcercise\RunnerExcercise\obj\Debug\netcoreapp3.1\RunnerExcercise.csproj.CoreCompileInputs.cache
+C:\Users\hharmanp3\source\repos\RunnerExcercise\RunnerExcercise\obj\Debug\netcoreapp3.1\RunnerExcercise.dll
+C:\Users\hharmanp3\source\repos\RunnerExcercise\RunnerExcercise\obj\Debug\netcoreapp3.1\RunnerExcercise.pdb
+C:\Users\hharmanp3\source\repos\RunnerExcercise\RunnerExcercise\obj\Debug\netcoreapp3.1\RunnerExcercise.genruntimeconfig.cache
